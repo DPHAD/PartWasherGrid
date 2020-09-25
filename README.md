@@ -3,6 +3,8 @@ With an economical magnetic stirrer (or magnetic mixer) and a sealable plastic c
 
 The only missing piece is something to keep the part away from the stir bar (the spinning pill-looking thing that sits inside the liquid). This 3D model provides a (sort of) customizable object that does exactly that.
 
+You should be able to print it in whatever you like as long as it will withstand your wash solvent.  PLA doesn't care about soaking in alcohol so it's a good choice.
+
 ![DIY Part Washer](https://github.com/DPHAD/PartWasherGrid/blob/master/Magnetic%20Stirrer%20Part%20Washer%20Animation%20Small.gif)
 
 ## 3D Printable Grill Inserts 
